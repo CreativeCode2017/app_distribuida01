@@ -1,0 +1,12 @@
+{
+    "name": "angular-restful-auth",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "4.x",
+        "morgan": "latest",
+        "express-jwt": "0.2.1"
+    },
+    "engines": {
+        "node": ">=0.10.0"
+    }
+}
